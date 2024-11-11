@@ -7,7 +7,7 @@ Requirements:
     Python 3.10
     Selenium
     Google Chrome Browser
-    Chromedrier - Exe file is available in this repo
+    Chromedriver - Exe file is available in this repo
    
 
 How to use?
